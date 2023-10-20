@@ -57,7 +57,7 @@ body{
 
 select{
     margin-top: 10px;
-    width: 90%;
+    width: 100%;
     padding: 10px;
     margin-bottom: 15px;
     border: 1px solid #ccc;
@@ -68,7 +68,7 @@ select{
 @media screen and (max-width:768px){
 
     .container{
-        height: 50%;
+        height: 70%;
         margin-top: 50px;
     }
 
