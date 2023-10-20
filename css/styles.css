@@ -9,6 +9,7 @@ body{
     justify-content: center; /* Esto centra verticalmente el contenido de la página */
     align-items: center; /* Esto centra horizontalmente el contenido de la página */
     height: 100vh;
+    margin: 0;
 }
 
 .container{
